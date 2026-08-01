@@ -129,11 +129,7 @@ Or use **VS Code Live Server**.
 🐙 GitHub  
 https://github.com/Kishorekannan93
 
-💼 LinkedIn  
-(Add your LinkedIn URL)
 
-🌐 Portfolio  
-(Add your Portfolio URL)
 
 ---
 
